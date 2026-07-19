@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xn--recreovila-x4a.lat/sitemap.xml
